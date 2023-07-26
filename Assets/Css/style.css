@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* #header{
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/216/920/931/digimon-wallpaper-preview.jpg');
+    background-size: 100%;
+} */
+
+#logo{
+    width: auto;
+    height: 200px;
+}
+
+#todo{
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/74f1f22c-aec4-4bff-8d67-187db905b6b3/db9zfuq-6e6a6f68-e900-462e-8879-31f1066d3c71.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc0ZjFmMjJjLWFlYzQtNGJmZi04ZDY3LTE4N2RiOTA1YjZiM1wvZGI5emZ1cS02ZTZhNmY2OC1lOTAwLTQ2MmUtODg3OS0zMWYxMDY2ZDNjNzEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8KYX9fKotvZlH9wxJzK4P-WVsF2nrUB3l0Ao7eHSR14');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#barra{
+    background-color: #FEC536;
+}
+
+#digivice{
+    height: 550px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6274b765-1364-4e50-8b8c-e53225f39662/deh5iih-63f1ab97-3d96-4f54-af05-b14ab00bb8e6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYyNzRiNzY1LTEzNjQtNGU1MC04YjhjLWU1MzIyNWYzOTY2MlwvZGVoNWlpaC02M2YxYWI5Ny0zZDk2LTRmNTQtYWYwNS1iMTRhYjAwYmI4ZTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.K2rnHDdtPclkeWyN2tXdLMkKaSy_ipWbbfpge1umIws');
+}
+
+#datos{
+    background-color: lightgray;
+    width: 10%;
+}
+
+#digifoto{
+    height: 250px;
+}
